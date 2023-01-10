@@ -1,0 +1,47 @@
+{
+    "year": [
+        2018
+    ],
+    "customers": [
+        {
+            "name": "John",
+            "contact": [
+                {
+                    "phone": "home",
+                    "number": "333-3334"
+                }
+            ],
+            "address": [
+                {
+                    "type": "home",
+                    "details": "4 Orangegrove lane, Elan, NC"
+                },
+                {
+                    "type": "work",
+                    "details": "13 Kombucha Close, Elan, NC"
+                }
+            ]
+        },
+        {
+            "name": "Jane",
+            "contact": [
+                {
+                    "phone": "home",
+                    "number": "555-5556"
+                }
+            ],
+            "address": [
+                {
+                    "type": "home",
+                    "details": "4 Orangegrove lane, Elan, NC"
+                },
+                {
+                    "type": "work",
+                    "details": "1st First street, Jinkies, NC"
+                }
+            ],
+            "surname": "Shaw"
+        }
+    ]
+}
+ 
